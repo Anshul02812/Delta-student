@@ -1,1 +1,0 @@
-let get  = "hmari chinta na kre khida hafiz";
